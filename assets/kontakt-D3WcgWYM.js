@@ -1,0 +1,1 @@
+import{t as e}from"./Pages-BK20PCUj.js";var t=e;export{t as component};

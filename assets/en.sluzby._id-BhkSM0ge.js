@@ -1,0 +1,1 @@
+import{A as e,c as t}from"./Pages-BK20PCUj.js";import{t as n}from"./index-Btmu2p4t.js";var r=e();function i(){let{id:e}=n.useParams();return(0,r.jsx)(t,{id:e})}export{i as component};
